@@ -1,0 +1,22 @@
+{
+  "name": "express_mongodb",
+  "version": "1.0.0",
+  "description": "Express_MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "no",
+    "sql"
+  ],
+  "author": "jamalfazlur",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^2.2.36",
+    "multer": "^1.4.1"
+  }
+}
